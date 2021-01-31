@@ -1,0 +1,9 @@
+#ifndef RAYMAI97_CURRUSERISADMIN_H
+#define RAYMAI97_CURRUSERISADMIN_H
+
+#include <Windows.h>
+
+EXTERN_C BOOL
+CurrUserIsAdmin(void);
+
+#endif/*RAYMAI97_CURRUSERISADMIN_H*/
